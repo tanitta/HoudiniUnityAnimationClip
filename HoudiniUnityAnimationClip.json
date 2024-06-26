@@ -1,0 +1,8 @@
+{
+	"hpath": "$HOUDINIUNITYANIMATIONCLIP",
+    "env": [
+        {
+            "HOUDINIUNITYANIMATIONCLIP": "$HOUDINI_PACKAGE_PATH/HoudiniUnityAnimationClip"
+        }
+    ]
+}
