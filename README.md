@@ -2,13 +2,15 @@
 
 ## Installation
 
-### Via [hrye](https://github.com/tanitta/hrye)
+There are two ways to install this package: by using [hrye](https://github.com/tanitta/hrye) and by installing it directly as a traditional Houdini package.
+
+### [hrye](https://github.com/tanitta/hrye)
 
 1. Install [hrye](https://github.com/tanitta/hrye) and setup project.
 2. `$ rye add HoudiniUnityAnimationClip --git https://https://github.com/tanitta/HoudiniUnityAnimationClip`
 3. Reload .hip file into Houdini.
 
-### Install Directry as Houdini Package
+### Installation directry as Houdini Package
 
 1. Clone This Repository into your `$HOUDINI_PREF_DIR/packages`.
 2. Copy and paste `HoudiniUnityAnimationClip.json` in it into `$HOUDINI_PREF_DIR/packages`.
