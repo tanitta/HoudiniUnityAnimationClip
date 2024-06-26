@@ -12,7 +12,7 @@ classifiers = [
 ]
 requires-python = "==3.10.*"
 dependencies = [
-    "yaml"
+    "PyYAML"
 ]
 dynamic = ["version"]
 
