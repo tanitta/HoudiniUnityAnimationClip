@@ -16,7 +16,7 @@ There are two ways to install this package: by using [hrye](https://github.com/t
 ### [hrye](https://github.com/tanitta/hrye) (Recomented)
 
 1. Install [hrye](https://github.com/tanitta/hrye) and setup project.
-2. `$ rye add HoudiniUnityAnimationClip --git https://https://github.com/tanitta/HoudiniUnityAnimationClip`
+2. Add this package to your project. `$ rye add HoudiniUnityAnimationClip --git https://https://github.com/tanitta/HoudiniUnityAnimationClip`
 3. Reload .hip file into Houdini.
 
 ### Installation directry as Houdini Package
