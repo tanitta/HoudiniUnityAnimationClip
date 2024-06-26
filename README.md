@@ -24,6 +24,6 @@ There are two ways to install this package: by using [Houdini venv Loader](https
 1. Clone This Repository
 2. Copy and paste `src/HoudiniUnityAnimationClip` into your `$HOUDINI_PREF_DIR/packages`.
 3. Copy and paste `src/HoudiniUnityAnimationClip/HoudiniUnityAnimationClip.json` in it into `$HOUDINI_PREF_DIR/packages`.
-4. Install python package: PyYAML in Houdini. 
+4. Install python package: `PyYAML` in Houdini. 
 
 cf. [Houdini packages | Houdini help](https://www.sidefx.com/docs/houdini/ref/plugins.html)
