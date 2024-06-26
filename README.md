@@ -11,7 +11,7 @@ This package consists of HDAs that directly export AnimationClips from Houdini t
 
 ## Installation
 
-There are two ways to install this package: by using [hrye](https://github.com/tanitta/hrye) and by installing it directly as a traditional Houdini package.
+There are two ways to install this package: by using [hrye](https://github.com/tanitta/hrye) and by installing it directly as a traditional [Houdini Package](https://www.sidefx.com/docs/houdini/ref/plugins.html).
 
 ### [hrye](https://github.com/tanitta/hrye) (Recomented)
 
@@ -19,7 +19,7 @@ There are two ways to install this package: by using [hrye](https://github.com/t
 2. Add this package to your project. `$ rye add HoudiniUnityAnimationClip --git https://https://github.com/tanitta/HoudiniUnityAnimationClip`
 3. Reload .hip file into Houdini.
 
-### Installation directry as Houdini Package
+### Installation directry as [Houdini Package](https://www.sidefx.com/docs/houdini/ref/plugins.html)
 
 1. Clone This Repository into your `$HOUDINI_PREF_DIR/packages`.
 2. Copy and paste `HoudiniUnityAnimationClip.json` in it into `$HOUDINI_PREF_DIR/packages`.
