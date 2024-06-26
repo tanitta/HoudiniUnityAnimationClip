@@ -1,5 +1,5 @@
 # HoudiniUnityAnimationClip
-
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/tanitta/HoudiniUnityAnimationClip/blob/main/LICENSE)
 ![image](https://github.com/tanitta/HoudiniUnityAnimationClip/assets/1937287/83629ac4-e11d-420a-883c-ac5a2e578acd)
 
 ## Description
