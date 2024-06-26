@@ -11,7 +11,7 @@ This package consists of HDAs that directly export AnimationClips from Houdini t
 
 ## Installation
 
-There are two ways to install this package: by using [hrye](https://github.com/tanitta/hrye) and by installing it directly as a traditional [Houdini Package](https://www.sidefx.com/docs/houdini/ref/plugins.html).
+There are two ways to install this package: by using [Houdini venv Loader](https://github.com/tanitta/hvenvloader) and by installing it directly as a traditional [Houdini Package](https://www.sidefx.com/docs/houdini/ref/plugins.html).
 
 ### Installation using [Houdini venv Loader](https://github.com/tanitta/hvenvloader) (Experimental recommended)
 
