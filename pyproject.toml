@@ -23,7 +23,7 @@ dev = []
 package-dir = {"" = "src"}
 
 [tool.setuptools.dynamic]
-version = {attr = "0.0.1"}
+version = {attr = "HoudiniUnityAnimationClip.__version__"}
 
 [tool.setuptools_scm]
 write_to = "src/HoudiniUnityAnimationClip/version.py"
