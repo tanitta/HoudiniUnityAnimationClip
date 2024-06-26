@@ -1,5 +1,11 @@
 # HoudiniUnityAnimationClip
 
+![image](https://github.com/tanitta/HoudiniUnityAnimationClip/assets/1937287/83629ac4-e11d-420a-883c-ac5a2e578acd)
+
+## Description
+
+This package consists of HDAs that directly export AnimationClips from Houdini to Unity.
+
 ## Installation
 
 There are two ways to install this package: by using [hrye](https://github.com/tanitta/hrye) and by installing it directly as a traditional Houdini package.
