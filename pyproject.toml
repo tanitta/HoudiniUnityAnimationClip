@@ -22,10 +22,7 @@ dev = []
 [tool.setuptools]
 package-dir = {"" = "src"}
 
-[tool.setuptools.dynamic]
-version = {attr = "HoudiniUnityAnimationClip.__version__"}
-
 [tool.setuptools_scm]
-write_to = "src/HoudiniUnityAnimationClip/version.py"
+write_to = "src/HoudiniUnityAnimationClip/_version.py"
 version_scheme = "python-simplified-semver"
 local_scheme = "no-local-version"
