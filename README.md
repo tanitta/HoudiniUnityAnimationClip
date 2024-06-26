@@ -6,6 +6,9 @@
 
 This package consists of HDAs that directly export AnimationClips from Houdini to Unity.
 
+- Unity Animation Clip Exporter ROP
+- Unity Animation Clip Exporter SOP
+
 ## Installation
 
 There are two ways to install this package: by using [hrye](https://github.com/tanitta/hrye) and by installing it directly as a traditional Houdini package.
