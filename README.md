@@ -13,7 +13,7 @@ This package consists of HDAs that directly export AnimationClips from Houdini t
 
 There are two ways to install this package: by using [Houdini venv Loader](https://github.com/tanitta/hvenvloader) and by installing it directly as a traditional [Houdini Package](https://www.sidefx.com/docs/houdini/ref/plugins.html).
 
-### Installation using [Houdini venv Loader](https://github.com/tanitta/hvenvloader) (Experimental recommended)
+### Installation using [Houdini venv Loader](https://github.com/tanitta/hvenvloader) (Recommended experimentally)
 
 1. Install [Houdini venv Loader](https://github.com/tanitta/hvenvloader) and setup project.
 2. Add this package to your project. e.g. using rye: `$ rye add HoudiniUnityAnimationClip --git https://https://github.com/tanitta/HoudiniUnityAnimationClip`
@@ -24,6 +24,6 @@ There are two ways to install this package: by using [Houdini venv Loader](https
 1. Clone This Repository
 2. Copy and paste `src/HoudiniUnityAnimationClip` into your `$HOUDINI_PREF_DIR/packages`.
 3. Copy and paste `src/HoudiniUnityAnimationClip/HoudiniUnityAnimationClip.json` in it into `$HOUDINI_PREF_DIR/packages`.
-4. Install python package: PyYAML on Houdini. 
+4. Install python package: PyYAML in Houdini. 
 
 cf. [Houdini packages | Houdini help](https://www.sidefx.com/docs/houdini/ref/plugins.html)
