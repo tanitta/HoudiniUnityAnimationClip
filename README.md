@@ -4,7 +4,7 @@
 
 There are two ways to install this package: by using [hrye](https://github.com/tanitta/hrye) and by installing it directly as a traditional Houdini package.
 
-### [hrye](https://github.com/tanitta/hrye)
+### [hrye](https://github.com/tanitta/hrye) (Recomented)
 
 1. Install [hrye](https://github.com/tanitta/hrye) and setup project.
 2. `$ rye add HoudiniUnityAnimationClip --git https://https://github.com/tanitta/HoudiniUnityAnimationClip`
