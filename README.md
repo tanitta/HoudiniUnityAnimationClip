@@ -17,7 +17,7 @@ There are two ways to install this package: by using [Houdini venv Loader](https
 ### Installation using [Houdini venv Loader](https://github.com/tanitta/hvenvloader) (Recommended experimentally)
 
 1. Install [Houdini venv Loader](https://github.com/tanitta/hvenvloader).
-2. Setup python version. e.g. using rye: `$rye pin 3.10` and `$rye sync`.
+2. Setup python version　to your project. e.g. using rye: `$rye pin 3.10` and `$rye sync`.
 3. Add this package to your project. e.g. using rye: `$ rye add HoudiniUnityAnimationClip --git https://github.com/tanitta/HoudiniUnityAnimationClip`
 4. Reload .hip file into Houdini.
 
