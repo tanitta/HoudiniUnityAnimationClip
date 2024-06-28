@@ -17,7 +17,7 @@ There are two ways to install this package: by using [Houdini venv Loader](https
 ### Installation using [Houdini venv Loader](https://github.com/tanitta/hvenvloader) (Recommended experimentally)
 
 1. Install [Houdini venv Loader](https://github.com/tanitta/hvenvloader) and setup project.
-2. Add this package to your project. e.g. using rye: `$ rye add HoudiniUnityAnimationClip --git https://https://github.com/tanitta/HoudiniUnityAnimationClip`
+2. Add this package to your project. e.g. using rye: `$ rye add HoudiniUnityAnimationClip --git https://github.com/tanitta/HoudiniUnityAnimationClip`
 3. Reload .hip file into Houdini.
 
 ### Installation directry as [Houdini Package](https://www.sidefx.com/docs/houdini/ref/plugins.html)
