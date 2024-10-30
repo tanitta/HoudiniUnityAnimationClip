@@ -16,8 +16,6 @@ dependencies = [
 ]
 dynamic = ["version"]
 
-include = ["src/HoudiniUnityAnimationClip/otls"]
-
 [project.optional-dependencies]
 dev = []
 
