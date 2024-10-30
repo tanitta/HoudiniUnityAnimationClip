@@ -16,6 +16,8 @@ dependencies = [
 ]
 dynamic = ["version"]
 
+include = ["src/HoudiniUnityAnimationClip/otls"]
+
 [project.optional-dependencies]
 dev = []
 
@@ -26,3 +28,6 @@ package-dir = {"" = "src"}
 write_to = "src/HoudiniUnityAnimationClip/_version.py"
 version_scheme = "python-simplified-semver"
 local_scheme = "no-local-version"
+
+[tool.setuptools.package-data]
+"HoudiniUnityAnimationClip" = ["src/HoudiniUnityAnimationClip/otls"]
