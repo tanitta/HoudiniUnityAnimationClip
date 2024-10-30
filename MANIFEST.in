@@ -1,1 +1,1 @@
-include src/HoudiniUnityAnimationClip/otls/*.hdalc
+recursive-include src/HoudiniUnityAnimationClip/otls
