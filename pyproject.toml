@@ -6,7 +6,8 @@ build-backend = "setuptools.build_meta"
 name = "HoudiniUnityAnimationClip"
 description = "This package consists of HDAs that directly export AnimationClips from Houdini to Unity."
 readme = "README.md"
-license = {file = "LICENSE"}
+license = "Apache-2.0"
+license-files = ["LICENSE"]
 classifiers = [
     "Programming Language :: Python :: 3.10",
 ]
@@ -22,10 +23,13 @@ dev = []
 [tool.setuptools]
 package-dir = {"" = "src"}
 
+[tool.setuptools.packages.find]
+where = ["src"]
+
 [tool.setuptools_scm]
 write_to = "src/HoudiniUnityAnimationClip/_version.py"
 version_scheme = "python-simplified-semver"
 local_scheme = "no-local-version"
 
 [tool.setuptools.package-data]
-"HoudiniUnityAnimationClip" = ["src/HoudiniUnityAnimationClip/otls"]
+"HoudiniUnityAnimationClip" = ["hpackage.json", "otls/*.hdalc"]
